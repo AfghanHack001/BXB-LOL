@@ -1,6 +1,6 @@
 **BXB BYPASS**
 
-Termux Active Command:
+**Termux Active Command**:
 ```
 apt update
 apt upgrade
@@ -11,9 +11,11 @@ pip install colorma
 pip install requests
 ```
 
-BXB BYPASS COMMAND:
+**BXB BYPASS COMMAND**:
 ```
-git clone
-git add
-git commit
+rm -rf BXB-LOL
+git clone https://github.com/AfghanHack001/BXB-LOL
+cd BXB-LOL
+ls
+python BXB.py
 ```
